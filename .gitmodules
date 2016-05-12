@@ -1,0 +1,3 @@
+[submodule "mindfront-react-components"]
+	path = mindfront-react-components
+	url = git@github.com:jcoreio/mindfront-react-components
